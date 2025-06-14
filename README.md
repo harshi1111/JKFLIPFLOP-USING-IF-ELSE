@@ -1,4 +1,4 @@
-# EX - 7  JKFLIPFLOP-USING-IF-ELSE
+# EX - 7  JK FLIPFLOP USING IF ELSE
 ### Developed by: HARSHITHA V
 ### RegisterNumber:212223230074
 
